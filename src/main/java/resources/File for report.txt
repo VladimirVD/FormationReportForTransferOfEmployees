@@ -1,0 +1,12 @@
+Errors in this file:
+
+Average salary for the department
+Average salary in department  1: 137666
+Average salary in department  2: 94666
+Average salary in department  3: 73996
+
+
+Possible options for transfer of employees
+Employee Ivanov I.I. can be transfered to: Department 3 
+Employee Sidorov A.M. can be transfered to: Department 2 Department 3 
+Employee Govorov V.P. can be transfered to: Department 3 

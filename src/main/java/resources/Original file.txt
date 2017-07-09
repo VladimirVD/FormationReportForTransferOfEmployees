@@ -1,0 +1,26 @@
+Department 1
+Ivanov I.I.     | 90000      | Moskow, 1-st Street          | 8-925-343-4733
+Petrov P.P.     | 200000     | Moskow, 2-nd Street          | 8-943-123-4355
+Sidorov A.M.    | 123000     | Moskow, 3-rd Street          | 8-923-849-7557
+
+Department 2
+Govorov V.P.    | 87000      | St. Peterburg, 1-st Street   | 8-918-757-9889
+Shuvalov A.A.   | 54000      | St. Peterburg, 2-nd Street   | 8-920-143-5625
+Soldatov A.A.   | 143000     | St. Peterburg, 3-rd Street   | 8-930-728-4664
+
+Department 3
+Morev P.S.      | 47990      | Novosibirsk, 1-st Street     | 8-945-879-9806
+Artremenko Y.A. | 87000      | Novosibirsk, 2-nd Street     || 8-908-546-8755
+Demyanenko A.P. | 89000      | Tula, 1-st Street            | 8-675-756-4346
+Samsonov A.P.   | 85000      | Tula, 2-nd Street            | 8-930-756-7755
+
+
+
+
+
+
+
+
+
+
+

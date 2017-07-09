@@ -1,0 +1,1 @@
+java -Dfile.encoding=utf-8  -jar FormationReportForTransferOfEmployees.jar "resources\DateFile.txt" "resources\Report.txt" "resources\Errors.txt"

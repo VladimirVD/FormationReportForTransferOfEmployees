@@ -1,0 +1,6 @@
+Errors during program execution:
+
+You entered incorect mobile number of employee Sidorov A.M.
+You entered incorect mobile number of employee Demyanenko A.P.
+You entered an incorrect number of delimiters in string of employee
+You entered incomplete data, please check the input again

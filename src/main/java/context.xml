@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+   http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="main" class="kamnevr.Task.Main"/>
+
+    <!--paskage thread-->
+    <bean id="thread1" class="kamnevr.Task.threads.Thread1"/>
+    <bean id="thread2" class="kamnevr.Task.threads.Thread2"/>
+
+    <!--paskage utils-->
+    <bean id="counterString" class="kamnevr.Task.utils.CounterString"/>
+    <bean id="readingAndWriting" class="kamnevr.Task.utils.ReadingAndWriting"/>
+</beans>

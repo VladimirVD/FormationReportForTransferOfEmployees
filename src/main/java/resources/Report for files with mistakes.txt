@@ -1,0 +1,17 @@
+Average salary for the department
+Average salary in department  1: 590000
+Average salary in department  2: 486666
+Average salary in department  3: 76663
+Average salary in department  4: 165000
+Average salary in department  5: 89747
+
+
+Possible options for transfer of employees
+Employee Ivanov I.I. can be transfered to: Department 2 Department 3 Department 4 Department 5 
+Employee Sidorov A.M. can be transfered to: Department 3 Department 4 Department 5 
+Employee Sidorov A.M. can be transfered to: Department 3 Department 4 Department 5 
+Employee Soldatov A.A. can be transfered to: Department 3 Department 5 
+Employee Sverdlov A.A. can be transfered to: Department 3 Department 5 
+Employee Varlamov Y.A. can be transfered to: Department 3 
+Employee Sulin A.P. can be transfered to: Department 3 
+Employee Gorodovoy A.P. can be transfered to: Department 3 

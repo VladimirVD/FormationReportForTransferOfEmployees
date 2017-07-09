@@ -1,0 +1,8 @@
+//        String filename = "src\\resources\\Original file.txt";
+//        String outName = "src\\resources\\File for report.txt";
+//        String fileError = "src\\resources\\kamnevr.Task.Test file with mistakes.txt";
+//        String outError = "src\\resources\\Report for files with mistakes.txt";
+//        String errorChecklistName = "src\\resources\\ErrorChecklist.txt";//
+//        String fileError = "out\\artifacts\\build\\resources\\DateFile.txt";
+//        String outError = "out\\artifacts\\build\\resources\\Report.txt";
+//        String errorChecklistName = "out\\artifacts\\build\\resources\\Errors.txt";
