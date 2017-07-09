@@ -1,14 +1,10 @@
 package kamnevr.Task.utils;
 
-import com.sun.org.apache.xerces.internal.impl.io.UTF8Reader;
-import com.sun.xml.internal.stream.writers.UTF8OutputStreamWriter;
-
-import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.List;
-import java.util.Map;
 
 public class ReadingAndWriting {
 

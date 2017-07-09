@@ -23,7 +23,7 @@ public class Main {
         return strings;
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         strings = args;
         try {
             Thread.sleep(100);
@@ -35,5 +35,5 @@ public class Main {
         Thread2 thread2 = (Thread2) context.getBean("thread2");
         thread1.start();
         thread2.start();
-    }
+    }*/
 }
